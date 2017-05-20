@@ -44,3 +44,6 @@ li a:hover, .dropdown:hover, .dropbtn:hover{
 .dropdown:hover .dropdown-content{
 	display: block;
 }
+body{
+	background: white;
+}
